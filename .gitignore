@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.pdb
+*.log
+*.tlog
+*.tlog
+*.ilk
+*.recipe
+*.db
+*.db-wal
+*.db-shm
+*.opendb
